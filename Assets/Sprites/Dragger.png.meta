@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 249804b30a248874697d2bff3dbe0f0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7815608828146590030
+    second: Dragger_0
+  - first:
+      213: -6488677011988143691
+    second: Dragger_1
+  - first:
+      213: 3104909879300625518
+    second: Dragger_2
+  - first:
+      213: 4422458619007620155
+    second: Dragger_3
+  - first:
+      213: 5066002074115083009
+    second: Dragger_4
+  - first:
+      213: -5402886143935615634
+    second: Dragger_5
+  - first:
+      213: 6692688638515641531
+    second: Dragger_6
+  - first:
+      213: -2306586205165069261
+    second: Dragger_7
+  - first:
+      213: -713069868206130328
+    second: Dragger_8
+  - first:
+      213: -734851602083193921
+    second: Dragger_9
+  - first:
+      213: 933274391929197000
+    second: Dragger_10
+  - first:
+      213: -4610248305615699528
+    second: Dragger_11
+  - first:
+      213: 2455094045987329280
+    second: Dragger_12
+  - first:
+      213: 4757627960996821936
+    second: Dragger_0
+  - first:
+      213: -2984486945530047275
+    second: Dragger_1
+  - first:
+      213: 1125422208349789495
+    second: Dragger_2
+  - first:
+      213: 3451812133321981746
+    second: Dragger_3
+  - first:
+      213: -3333617454532320198
+    second: Dragger_4
+  - first:
+      213: -7308668618183223174
+    second: Dragger_5
+  - first:
+      213: 8232029580659440980
+    second: Dragger_6
+  - first:
+      213: 6407722467968089065
+    second: Dragger_7
+  - first:
+      213: -2356661291112210723
+    second: Dragger_8
+  - first:
+      213: -782328967278242927
+    second: Dragger_9
+  - first:
+      213: -2772370368318266461
+    second: Dragger_10
+  - first:
+      213: -2777085359928789489
+    second: Dragger_11
+  - first:
+      213: -4094255123510918328
+    second: Dragger_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dragger_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 86
+        width: 172
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45db6b7d94b0e3270800000000000000
+      internalID: 6692688638515641531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragger_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 114
+        width: 106
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebf68292adcce850800000000000000
+      internalID: -2306586205165069261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragger_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 22
+        width: 178
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193d1eff2fb9425f0800000000000000
+      internalID: -734851602083193921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragger_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 6
+        width: 172
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a32292b6df8689d0800000000000000
+      internalID: 933274391929197000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragger_11
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06b18a249fc579d0800000000000000
+      internalID: -4610248305615699528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragger_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 184
+        width: 295
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be5aeefd21698390800000000000000
+      internalID: -7815608828146590030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragger_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 474
+        width: 99
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b12436d2a693f5a0800000000000000
+      internalID: -6488677011988143691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragger_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 390
+        width: 107
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3450dbceaabf5d30800000000000000
+      internalID: 4422458619007620155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragger_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 175
+        width: 180
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b850bab0e0e4640800000000000000
+      internalID: 5066002074115083009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragger_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 138
+        width: 101
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d66d48da71505b0800000000000000
+      internalID: -5402886143935615634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 66bc4a9147703a74a9d7d79aa10efbcb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dragger_0: -7815608828146590030
+      Dragger_1: -6488677011988143691
+      Dragger_10: 933274391929197000
+      Dragger_11: -4610248305615699528
+      Dragger_3: 4422458619007620155
+      Dragger_4: 5066002074115083009
+      Dragger_5: -5402886143935615634
+      Dragger_6: 6692688638515641531
+      Dragger_7: -2306586205165069261
+      Dragger_9: -734851602083193921
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
